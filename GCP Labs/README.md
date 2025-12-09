@@ -1,1 +1,1 @@
-
+This directory contains hands-on labs, exercises, and study notes completed while learning and practicing Google Cloud Platform (GCP). The focus is on building real-world skills in SRE, DevOps, and System Engineering using core GCP services and modern cloud-native practices.
