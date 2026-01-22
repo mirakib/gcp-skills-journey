@@ -12,16 +12,6 @@ The main goals of this repo are:
 - To showcase hands-on cloud skills and practical implementation experience
 - To prepare for roles involving GCP DevOps/SRE/System Engineering
 
-## Tech & Skills Covered
+## Badges and Certification
 
-- Cloud Infrastructure Setup  
-- Automation & Scripting  
-- Reliability Engineering Practices  
-- Kubernetes (GKE)  
-- Terraform Basics (if applicable)  
-- CI/CD Pipelines  
-- Monitoring, Alerting & SLOs  
-- Troubleshooting and Debugging  
-- Networking & Security Basics  
-- Serverless Architectures  
-- Logging & Observability  
+<img width="389" height="260" alt="implement-ci-cd-pipelines-on-google-cloud-skill-bad-1" src="https://github.com/user-attachments/assets/9e8b8cbb-e59b-4842-8421-cb8780f1702d" />
