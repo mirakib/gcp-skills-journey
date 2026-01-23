@@ -12,6 +12,13 @@ The main goals of this repo are:
 - To showcase hands-on cloud skills and practical implementation experience
 - To prepare for roles involving GCP DevOps/SRE/System Engineering
 
-## Badges and Certification
 
-<img width="389" height="260" alt="implement-ci-cd-pipelines-on-google-cloud-skill-bad-1" src="https://github.com/user-attachments/assets/9e8b8cbb-e59b-4842-8421-cb8780f1702d" />
+## 🏅 Badges and Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/e40ee7dd-7671-4bf0-9655-2fc2a04a3ac1/public_url" target="_blank">
+    <img src="https://github.com/user-attachments/assets/9e8b8cbb-e59b-4842-8421-cb8780f1702d"
+         width="330"
+         alt="Implement CI/CD Pipelines on Google Cloud" />
+  </a>
+</p>
